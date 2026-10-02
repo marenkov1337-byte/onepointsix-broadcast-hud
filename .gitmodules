@@ -1,0 +1,4 @@
+[submodule "external/hlsdk"]
+    path = external/hlsdk
+    url = https://github.com/ValveSoftware/halflife
+    ignore = dirty
